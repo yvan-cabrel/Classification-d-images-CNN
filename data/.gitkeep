@@ -1,0 +1,2 @@
+# Ce dossier contiendra les données CIFAR-10 téléchargées automatiquement
+# lors de la première exécution de train.py via tf.keras.datasets.cifar10.load_data()
